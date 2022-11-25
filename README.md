@@ -31,6 +31,6 @@ Primeiramente vamos abordar o que um analista de segurança da informação com 
 
 # O que é White hat, gray hat e black hat?
 
-**White hat: 
+**White hat:** 
 
 São hackers conhecidos como ethical hackers. Eles fazem testes nos sistemas de forma autorizada pela organização. São os tipos de hackers que ajudam a organização a se manter protegida e apoiam na segurança de seus dados, websites, serviços e etc. Com o aumento dos ataques cibernéticos contra organizações e governos, muitas dessas entidades perceberam a necessidade desse tipo de profissional dentro da organização.
