@@ -36,4 +36,4 @@ Primeiramente vamos abordar o que um analista de segurança da informação com 
 
 *Black hat:* São hackers que entram nos sistemas sem autorização e de forma ilegal causando prejuízos que vão desde roubo de dados, indisponibilidade dos serviços da organização, modificação de dados ou websites e vários outros tipos de danos que podem ser causados com objetivo financeiro, governamental, espionagem, ganho de competitivo, demonstração de poder entre outros.
 
-*Gray hat:* São hackers que misturam ambos acima, eles podem ter ou não autorização da organização ou do alvo sem inteção de causar danos, mas de encontrar falhas e podem pedir as vezes algum tipo de ajuda financeira a organização no caso de encontrarem alguma falha relevante.
+*Gray hat:* São uma mistura de ambos tipos de hackers *white e black*, eles podem ter ou não autorização da organização ou do alvo mas sem inteção de causar danos. O objetivo é encontrar falhas e podem pedir as vezes algum tipo de ajuda financeira a organização no caso de encontrarem algo relevante.
