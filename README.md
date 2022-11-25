@@ -28,7 +28,10 @@ Primeiramente vamos abordar o que um analista de segurança da informação com 
 * https://www.reddit.com/r/cybersecurity/
 * https://www.reddit.com/r/hacking/
 * https://www.cisa.gov/subscribe-updates-cisa
+* https://www.youtube.com/@SOCBrazil
 
 # O que é White hat, gray hat e black hat?
 
 *White hat:* São hackers conhecidos como ethical hackers. Eles fazem testes nos sistemas de forma autorizada pela organização. São os tipos de hackers que ajudam a organização a se manter protegida e apoiam na segurança de seus dados, websites, serviços e etc. Com o aumento dos ataques cibernéticos contra organizações e governos, muitas dessas entidades perceberam a necessidade desse tipo de profissional dentro da organização.
+*Black hat:* São hackers que entram nos sistemas sem autorização e de forma ilegal causando prejuízos que vão desde roubo de dados, indisponibilidade dos serviços da organização, modificação de dados ou websites e vários outros tipos de danos que podem ser causados com objetivo financeiro, governamental, espionagem, ganho de competitivo, demonstração de poder entre outros.
+*Gray hat:* São hackers que são uma mistura de ambos os tipos de hackers acima, eles podem ter ou não autorização da organização ou do alvo sem inteção de causar danos, mas de encontrar falhas e podem pedir as vezes algum tipo de ajuda financeira a organização no caso de encontrarem alguma falha relevante.
