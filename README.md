@@ -11,7 +11,9 @@ Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver par
 * Terminologias
 * Fundamentos de redes
 * Fundamentos de sistemas operacionais
-* Análise de malwares básica
+* Fundamentos de protocolos de aplicações
+* Fundamentos de desenvolvimento seguro
+* Análise de scripts e malwares básica
 * Análise dos principais tipos de ataques (phishing, malware, social engineering...)
 * Conceitos de resposta de incidentes (ransomware, DDoS, vazamento de dados...)
 
