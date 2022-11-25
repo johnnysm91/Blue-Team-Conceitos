@@ -20,7 +20,7 @@ Primeiramente vamos abordar o que um analista de segurança da informação com 
 
 # Fontes de informações
 * https://thehackernews.com/
-*[https://threatpost.com/
+* https://threatpost.com/
 * https://blog.malwarebytes.com/
 * https://blog.malwarebytes.com/
 * https://t.me/information_security_channel
