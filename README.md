@@ -11,7 +11,7 @@ Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver par
 * Terminologias (FW, IPS, WAF, IDS, AV, EDR, SIEM...)
 * Fundamentos de redes (TCP/IP, UDP, ARP, DHCP, NETbios, DNS...)
 * Fundamentos de sistemas operacionais (Linux, Windows, Android, iOS, MacOS, FreeBSD...)
-* Fundamentos de protocolos de aplicações (HTTP, SSL, TLS, FTP, TFTP, SMTP, POP, IMAP, SSH, TELNET...)
+* Fundamentos de protocolos de aplicações (HTTP, FTP, TFTP, SMTP, POP, IMAP, SSH, TELNET...)
 * Fundamentos de desenvolvimento seguro (Sanitização, remoção de frameworks e código sem uso, OWASP...)
 * Análise de scripts e malwares básica (Python, Powershell, VBS, CMD, Bash, EXE, MSI, CPL...)
 * Análise dos principais tipos de ataques (phishing, malware, social engineering...)
