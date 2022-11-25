@@ -14,8 +14,8 @@ Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver par
 * Fundamentos de protocolos de aplicações (HTTP, FTP, TFTP, SMTP, POP, IMAP, SSH, TELNET...)
 * Fundamentos de desenvolvimento seguro (Sanitização, remoção de frameworks e código sem uso, OWASP...)
 * Análise de scripts e malwares básica (Python, Powershell, VBS, CMD, Bash, EXE, MSI, CPL...)
-* Análise dos principais tipos de ataques (phishing, malware, social engineering...)
-* Conceitos de resposta de incidentes (ransomware, DDoS, vazamento de dados...)
+* Análise dos principais tipos de ataques (Phishing, malware, social engineering...)
+* Conceitos de resposta de incidentes (Ransomware, DDoS, vazamento de dados...)
 * Conceito de Least privilege (Aplicar apenas o privilégio necessário para desempenhar uma atividade, se o usuário precisa de mais alguma coisa, ele pede permissão)
 * Conceitos de hardening (Genéricamente falando, só mantenha ativo o necessário. Tudo que não for necessário desinstale, desative, exclua na ordem que for viável)
 
