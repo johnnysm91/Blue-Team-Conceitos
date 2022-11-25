@@ -22,7 +22,7 @@ Primeiramente vamos abordar o que um analista de segurança da informação com 
 * https://thehackernews.com/
 * https://threatpost.com/
 * https://blog.malwarebytes.com/
-* [https://blog.malwarebytes.com/](https://www.hackread.com/)
+* https://www.hackread.com/
 * https://t.me/information_security_channel
 * https://t.me/Cyber_Security_Channel
 * https://www.reddit.com/r/cybersecurity/
