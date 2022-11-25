@@ -1,4 +1,4 @@
-# Blue-Team-Conceitos
+# Conceitos Blue Team
 Repositório compartilhando alguns conceitos básicos e conhecimentos necessários para um analista de segurança da informação blue team. Conceitos que estou consolidando aqui com a parte teórica e também com ferramentas importantes para depois você se aprofundar nos assuntos por conta própria. Se você quer sugerir alguma coisa, sinta-se a vontade de submeter um pull request.
 
 # Habilidades pessoais importantes
