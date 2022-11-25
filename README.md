@@ -1,8 +1,20 @@
 # Blue-Team-Conceitos
-Compartilhando alguns conceitos básicos e conhecimentos necessários para um analista de segurança da informação blue team.
+Repositório compartilhando alguns conceitos básicos e conhecimentos necessários para um analista de segurança da informação blue team. Conceitos que estou consolidando aqui com a parte teórica e também com ferramentas importantes para se aprofundar nos assuntos. Se você quer sugerir alguma coisa, sinta-se a vontade de submeter um pull request.
 
 # Habilidades pessoais importantes
 Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver para seguir carreira em segurança da informação:
 * Pensamento crítico
 * Persistência
 * Busca por conhecimento  
+
+# Conhecimentos básicos importantes
+* Terminologias
+* Fundamentos de redes
+* Fundamentos de sistemas operacionais
+* Análise de malwares básica
+* Análise dos principais tipos de ataques (phishing, malware, social engineering...)
+* Conceitos de resposta de incidentes (ransomware, DDoS, vazamento de dados...)
+
+# Analista de segurança Blue team
+Primeiramente vamos abordar o que um analista de segurança da informação com blue team faz basicamente. É o analista que faz a proteção das informações da organização através de várias frentes. Ajudam a detectar falhas de configurações em serviços, servidores e diversos tipos de tecnologias diferentes, verificam a eficiência de controles de segurança e ajudam a implementar novos controles, apoiam na resposta de um incidente tanto na parte da identificação como na possível remediação apropriada, mantém-se atualizados em feeds de inteligência prontos para aplicação ou recomendação de patches ou remediações para vulnerabilidades novas, apóiam times correlatos como os de desenvolvimento e sustentação a corrigir falhas e recomendar boas práticas de desenvolvimento, ajudam nos controles lógicos e de permissões por níveis hierárquicos tanto controlando acesso à informação como na classificação e proteção contra o vazamento destes dados. Existe outra infinidade de tarefas possíveis, mas acho que o básico já está aqui.
+
