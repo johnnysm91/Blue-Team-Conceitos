@@ -9,7 +9,7 @@ Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver par
 
 # Conhecimentos básicos importantes
 * Terminologias (FW, IPS, WAF, IDS, AV, EDR, SIEM...)
-* Fundamentos de redes (TCP/IP, UDP, ARP, DHCP, NETbios, DNS...)
+* Fundamentos de redes (TCP/IP, UDP, ARP, DHCP, SNMP, NETbios, DNS...)
 * Fundamentos de sistemas operacionais (Linux, Windows, Android, iOS, MacOS, FreeBSD...)
 * Fundamentos de protocolos de aplicações (HTTP, FTP, TFTP, SMTP, POP, IMAP, SSH, TELNET...)
 * Fundamentos de desenvolvimento seguro (Sanitização, remoção de frameworks e código sem uso, OWASP...)
