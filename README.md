@@ -8,12 +8,12 @@ Começo mencionando pelo menos 3 habilidades que uma pessoa deve desenvolver par
 * Busca por conhecimento  
 
 # Conhecimentos básicos importantes
-* Terminologias
-* Fundamentos de redes
-* Fundamentos de sistemas operacionais
-* Fundamentos de protocolos de aplicações
-* Fundamentos de desenvolvimento seguro
-* Análise de scripts e malwares básica
+* Terminologias (FW, IPS, WAF, IDS, AV, EDR, SIEM...)
+* Fundamentos de redes (TCP/IP, UDP, ARP, DHCP, NETbios, DNS...)
+* Fundamentos de sistemas operacionais (Linux, Windows, Android, iOS, MacOS, FreeBSD...)
+* Fundamentos de protocolos de aplicações (HTTP, SSL, TLS, FTP, TFTP, SMTP, POP, IMAP, SSH, TELNET...)
+* Fundamentos de desenvolvimento seguro (Sanitização, remoção de frameworks e código sem uso, OWASP...)
+* Análise de scripts e malwares básica (Python, Powershell, VBS, CMD, Bash, EXE, MSI, CPL...)
 * Análise dos principais tipos de ataques (phishing, malware, social engineering...)
 * Conceitos de resposta de incidentes (ransomware, DDoS, vazamento de dados...)
 
